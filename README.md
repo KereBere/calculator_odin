@@ -5,4 +5,4 @@ https://kerebere.github.io/calculator_odin
 
 <a href="https://kerebere.github.io/calculator_odin" target="_blank">example</a>
 
-[link](https://kerebere.github.io/calculator_odin){:target="_blank"}
+[https://kerebere.github.io/calculator_odin](url){:target="_blank"}
