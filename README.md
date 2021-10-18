@@ -8,3 +8,5 @@ https://kerebere.github.io/calculator_odin
 [https://kerebere.github.io/calculator_odin](url){:target="_blank"}
 
 <a href="https://example.com" target="_blank" rel="noopener"><span>Example Text</span> </a>.
+
+<a href="http://example.com/" target="_blank">example</a>
